@@ -1,7 +1,5 @@
-<h1 align="center"><b>Hi , I'm Thomas </b></h1>
-
-<!-- <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Not+a+professional++;...yet"></a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Thomas"></a>
 </p>
 
 <br>
@@ -13,7 +11,7 @@ Currently studying a Bachelor of Software Engineering (Honours) at the Universit
 Current Interests are in Web Development with [React](https://react.dev/), [Typescript](https://www.typescriptlang.org/) and Machine Learning with [Ultralytics Yolo](https://ultralytics.com/) models.
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -75,7 +73,7 @@ Current Interests are in Web Development with [React](https://react.dev/), [Type
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <b> Github Stats </b>
 
 <br>
 
@@ -90,9 +88,9 @@ Current Interests are in Web Development with [React](https://react.dev/), [Type
 
 </a>
 </li>
-
+	
 </ul>
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
