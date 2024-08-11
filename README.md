@@ -6,10 +6,15 @@
 
 ## **About me**
 
-Currently studying a Bachelor of Software Engineering (Honours) at the University of Newcastle.
+Currently studying a Bachelor of Software Engineering (Honours) at the
+University of Newcastle.
 
-Current Interests are in Web Development with [React](https://react.dev/), [Typescript](https://www.typescriptlang.org/) and Machine Learning with [Ultralytics Yolo](https://ultralytics.com/) models.
-<br>
+My current interests are in backend development with Java, machine learning and
+compiler design. <br>
+
+My current project is writing an
+[LSP](https://microsoft.github.io/language-server-protocol/) for a simple
+programming language.
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
 
@@ -41,8 +46,9 @@ Current Interests are in Web Development with [React](https://react.dev/), [Type
 
 - **Areas of Interest**:
 
-  ![YOLO](https://img.shields.io/badge/YOLO-%23F7DF1E.svg?style=for-the-badge&logo=yolo&logoColor=black)
   ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23E34F26.svg?style=for-the-badge&logo=machinelearning&logoColor=white)
+  ![Backend Development](https://img.shields.io/badge/Backend%20Development-%230077B5.svg?style=for-the-badge&logo=backend&logoColor=white)
+  ![Compiler Design](https://img.shields.io/badge/Compiler%20Design-%23FFA500.svg?style=for-the-badge&logo=compiler&logoColor=white)
   ![Linode](https://img.shields.io/badge/Linode-%2300B159.svg?style=for-the-badge&logo=linode&logoColor=white)
   ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
@@ -53,14 +59,16 @@ Current Interests are in Web Development with [React](https://react.dev/), [Type
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   [![Neovim](https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 <br>
 
 - **Extras**:
 
   ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![tmux](https://img.shields.io/badge/tmux-%231BB91F.svg?style=for-the-badge&logo=tmux&logoColor=white)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   ![Latex](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
   ![Unix](https://img.shields.io/badge/Unix-%23FFD700.svg?style=for-the-badge&logo=unix&logoColor=white)
